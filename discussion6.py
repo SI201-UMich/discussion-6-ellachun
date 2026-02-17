@@ -148,7 +148,7 @@ class HorseRaces:
 
             average_dict[horse] = total / count
         
-        return average__dict
+        return average_dict
 
 
 ###############################################################################
